@@ -156,6 +156,7 @@ svg {
   margin-top: -7rem;
   border: white 2px solid;
   z-index: 3;
+  font-family: ARS Maquette, Helvetica Neue,Arial,sans-serif;
 }
 
 .nav2 {
@@ -253,6 +254,11 @@ svg {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
   margin: 7rem 0;
+  font-family: Avalon,sans-serif;
+  font-weight: 700;
+}
+body, h1{
+  font-family: ARS Maquette,Helvetica Neue,Arial,sans-serif;
 }
 
 .tnw-header .tnw-grid1 {
@@ -335,9 +341,9 @@ svg {
 }
 
 .tnw-header .content {
-    color: white;
-    font-size: 29px;
-    font-weight: bold;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .tnw-header .extra {
