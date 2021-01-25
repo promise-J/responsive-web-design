@@ -417,7 +417,7 @@ body, h1{
 }
 
 .section2 .price-card {
-  background-color: wheat;
+  background-color: rgb(252, 246, 246);
   display: flex;
   flex-direction: column;
 }
@@ -435,7 +435,7 @@ body, h1{
 }
 
 .section2 .price-card > .price {
-    background-color: gray;
+    background-color: rgb(252, 210, 210);
     height: 54px;
     width: 100%;
     display: flex;
@@ -453,13 +453,25 @@ body, h1{
     align-items: flex-start;
     justify-content: flex-start;
     margin-left: 10px;
+    font-weight: lighter;
 }
+
+.section2 .price-card > .opt span {
+    padding: 4px;
+    font-size: 14px;
+}
+
 
 .section2 .price-card > .content {
     font-size: small;
     border-top: 2px solid rgb(230, 141, 141);
     padding: 10px;
-    color: rgb(117, 112, 103);
+    color: rgb(216, 214, 209);
+}
+
+.price-head {
+  color: red;
+  font-weight: bold;
 }
 
 .section2 .price-card > .extra {
