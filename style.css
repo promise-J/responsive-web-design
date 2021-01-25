@@ -106,6 +106,15 @@ body {
   overflow-x: hidden;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a::hover{
+    color: white;
+}
+
 ol,
 ul {
   list-style: none;
@@ -140,7 +149,7 @@ svg {
 }
 
 .header {
-  background-color: yellow;
+  background-color: rgb(245, 245, 41);
   width: 80rem;
   height: 7rem;
   position: fixed;
@@ -149,10 +158,85 @@ svg {
   z-index: 3;
 }
 
-header > .nav1 {
-  background: black;
+.nav2 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 48px;
+}
+
+.nav2 .nav2-inner {
+    width: 90%;
+    display: flex;
+    justify-content: start;
+}
+
+.nav2 > .svg-con {
+    width: 60px;
+    height: 97%;
+    border: 1px solid rgb(218, 192, 192);
+    margin-right: -2.5rem;
+}
+
+.nav2 > .svg-con > svg {
+    height: 30px;
+    width: 40px;
+    margin: 0.5rem;
+}
+
+.nav2 .nav2-left {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 11px;
+    width: 60%;
+    color: rgb(48, 39, 39);
+}
+
+.nav3 {
+    margin: 8px 0 2px 1rem;
+}
+
+.header > .nav1 {
+  background: rgb(36, 34, 34);
   height: 2rem;
   width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 0 3rem; */
+}
+
+.header .nav1 .nav1-left {
+    color: white;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    height: 90%;
+}
+
+.header .nav1 .nav1-left a {
+    color: rgb(175, 174, 174);
+}
+
+.header .nav1 .nav1-left a:hover {
+    color: white;
+}
+
+.header .nav1 .nav1-left select {
+    border: none;
+    background-color: inherit;
+    color: white;
+    margin-top: -10px;
+}
+
+.nav1 .nav1-right {
+    width: 250px;
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2rem;
 }
 
 .tnw-header {
@@ -235,7 +319,13 @@ header > .nav1 {
     font-size: 60px;
     color: white;
     font-weight: bold;
-    margin-top: 5rem ;
+    margin: 5rem 0 0 1rem;
+}
+
+.grid1-extra {
+  color: rgb(126, 115, 115);
+  font-size: small;
+  margin-left: 1rem;
 }
 
 .tnw-header .content {
