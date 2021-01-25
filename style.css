@@ -150,7 +150,7 @@ svg {
 
 .header {
   background-color: rgb(245, 245, 41);
-  width: 80rem;
+  width: 100vw;
   height: 7rem;
   position: fixed;
   margin-top: -7rem;
@@ -340,4 +340,32 @@ svg {
 
 .tnw-header .head {
     color: white;
+}
+
+.body {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: red;
+  place-items: center;
+}
+h1 {
+
+}
+
+.section1 {
+  height: 700px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  justify-content: center;
+
+}
+.latest-news a {
+ width: 50px;
+}
+
+.section1img {
+  height: 230px;
+  width: 280px;
 }
