@@ -163,6 +163,7 @@ svg {
     display: flex;
     justify-content: space-between;
     height: 48px;
+    width: 100%;
 }
 
 .nav2 .nav2-inner {
@@ -195,6 +196,7 @@ svg {
 
 .nav3 {
     margin: 8px 0 2px 1rem;
+    width: 100%;
 }
 
 .header > .nav1 {
@@ -224,10 +226,14 @@ svg {
     color: white;
 }
 
+.header .nav1 .nav1-left select:hover {
+    color: white;
+}
+
 .header .nav1 .nav1-left select {
     border: none;
     background-color: inherit;
-    color: white;
+    color: rgb(185, 166, 166);
     margin-top: -10px;
 }
 
