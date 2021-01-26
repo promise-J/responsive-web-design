@@ -562,7 +562,7 @@ svg {
   font-weight: bold;
   font-size: 16px;
   margin: 0.4rem 1rem 1rem 0.6rem;
-}
+} 
 
 .section3 .item-set > ul {
   display: flex;
@@ -717,4 +717,3 @@ footer .about p > span {
   font-size: 18px;
   color: white;
 }
-
