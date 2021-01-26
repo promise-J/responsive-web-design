@@ -104,6 +104,8 @@ section {
 body {
   line-height: 1;
   overflow-x: hidden;
+  width: 55%
+  max-width: 900px;
 }
 
 a{
@@ -717,4 +719,3 @@ footer .about p > span {
   font-size: 18px;
   color: white;
 }
-
