@@ -89,7 +89,6 @@ time,
 mark,
 audio,
 video {
-  margin: 0;
   padding: 0;
   border: 0;
   font: inherit;
@@ -122,7 +121,7 @@ a{
     color: inherit;
 }
 
-a::hover{
+a:hover{
     color: white;
 }
 
@@ -361,29 +360,28 @@ svg {
 }
 
 .body {
-  /* margin-left: 10px;
-  margin-right: 10px; */
-  margin: auto;
-  width: 100vw;
+  max-width: 100vw;
 }
 
 .section1 {
   height: 550px;
   width: 92%;
-  margin: auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 10px;
+  margin: auto;
 }
 
 .latest-news {
   height: 200px;
+  width: 220px;
 }
 
 .latest-news h2 {
  color: black;
- font-size: 17px;
- font-weight: 900;
+ font-size: 13px;
+ font-weight: 800;
  margin: 0.5rem;
 }
 
@@ -400,14 +398,13 @@ svg {
 
 .latest-news a{
   color: rgb(160, 147, 147);
-  font-size: 16px;
+  font-size: 10px;
   margin: 0.5rem;
 }
 
 .section1img {
   height: 120px;
-  width: 90%;
-  margin: 10px;
+  width: 220px;
 }
 
 .section2 {
@@ -924,7 +921,7 @@ footer .about p > span {
     justify-content: space-around;
   }
 
-  
+
 
   .section4 .latest-deal .latest-deal-img {
     width: 120px;
@@ -990,10 +987,10 @@ footer .about p > span {
     width: 97vw;
     margin: 0 auto 2rem auto;
   }
-  
+
   .section2 .price-card:nth-child(4) {
     display: none;
-  } 
+  }
 
   .section2 {
     grid-template-columns: repeat(3, 1fr);
