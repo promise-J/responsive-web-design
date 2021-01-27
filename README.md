@@ -1,5 +1,5 @@
 # THE NEXT WEB
-Microverse HTML and CSS Week 2 Project
+Microverse HTML and CSS Week 2 Project: Responsive Web Design
 
     RESPONSIVE WEB DESIGN
    ![demo](images/screenshotArticle.png)
@@ -8,17 +8,17 @@ Microverse HTML and CSS Week 2 Project
 
     HTML
     CSS
-    
+
 ## Linters Used:
 
     Lighthouse
     Weblint
     Stylelint
-    
+
 ## Live Demo
 
 [Live Demo Link]()
-    
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -32,10 +32,13 @@ Most Operative Systems have the .html file extension associated to open with you
 
 ## 👤 Johnson Promise
 
-
 - GitHub: [promise-J](https://github.com/promise-J)
 - Twitter: [@twitterhandle](https://twitter.com/Promise94353263)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/promise-chiemela-788887142)
+
+## 👤 Shay Craig
+
+- GitHub: [promise-J](https://github.com/craigs40)
 
 
 ## 🤝 Contributing
