@@ -2,7 +2,7 @@
 Microverse HTML and CSS Week 2 Project: Responsive Web Design
 
     RESPONSIVE WEB DESIGN
-   ![demo](responsive-web-design/README-Screenshot/ScreenshotProject2.png)
+   ![demo][![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
 
 ## Built With
 
