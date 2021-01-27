@@ -1,8 +1,7 @@
 # THE NEXT WEB
 Microverse HTML and CSS Week 2 Project: Responsive Web Design
 
-    RESPONSIVE WEB DESIGN
-   ![demo][![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
+[![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
 
 ## Built With
 
