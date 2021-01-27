@@ -17,7 +17,7 @@ Microverse HTML and CSS Week 2 Project: Responsive Web Design
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://raw.githack.com/promise-J/responsive-web-design/responsive-web/index.html)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Most Operative Systems have the .html file extension associated to open with you
 
 ## 👤 Shay Craig
 
-- GitHub: [promise-J](https://github.com/craigs40)
+- GitHub: [Shay Craig](https://github.com/craigs40)
 
 
 ## 🤝 Contributing
