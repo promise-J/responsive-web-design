@@ -676,6 +676,7 @@ footer .socials .social-icons i {
   width: 92vw;
   margin: 1rem auto;
   height: 600px;
+  gap: 0.6rem;
 }
 
 .section4 .latest-deal .latest-info {
@@ -714,7 +715,7 @@ footer .socials .social-icons i {
 .latest-deal {
   position: relative;
   height: 280px;
-  width: 266px;
+  width: 240px;
   display: flex;
   flex-direction: column;
 }
@@ -863,7 +864,7 @@ footer .about img {
   }
 
   .section4 .latest-deal {
-    width: 260px;
+    width: 200px;
   }
 }
 

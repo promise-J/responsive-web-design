@@ -1,5 +1,5 @@
 # THE NEXT WEB
-Microverse HTML and CSS Week 2 Project: Responsive Web Design
+Microverse HTML and CSS Week 2 Project: Responsive Web Design. This is to show the implementation of responsiveness of a website on different screen sizes using media queries with two break points
 
 [![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
 
