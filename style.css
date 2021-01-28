@@ -279,7 +279,8 @@ svg {
       330deg,
       rgba(0, 0, 0, 0.7),
       rgba(100, 0, 0, 0.7),
-      rgba(247, 7, 7, 0.918)),
+      rgba(247, 7, 7, 0.918)
+    ),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/1-copy-47-796x417.jpg);
   display: flex;
   flex-direction: column;
