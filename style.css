@@ -8,6 +8,12 @@
   src: url(responsive-web-design/Fonts/ArialCEBold.ttf) format("truetype");
 }
 
+$font-stack: @font-face;
+
+body {
+  font-family: $font-stack;
+}
+
 html,
 body,
 div,
