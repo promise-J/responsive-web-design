@@ -1,19 +1,9 @@
-@font-face {
-  font-family: ARS Maquette, Helvetica Neue, Arial, sans-serif;
-  src: url(responsive-web-design/Fonts/ArialCEItalic.ttf) format("truetype");
-}
-
-@font-face {
-  font-family: ARS Maquette, Helvetica Neue, Arial, sans-serif;
-  src: url(responsive-web-design/Fonts/ArialCEBold.ttf) format("truetype");
-}
-
-$font-stack: @font-face;
-@white: white;
+@import "library.less";
+@import "style.less";
 
 .main {
-  background-color: @white;
-  font-family: $font-stack;
+  font-family: ARS Maquette, Helvetica Neue, Arial, sans-serif;
+  src: url(responsive-web-design/Fonts/ArialCEBold.ttf) format("truetype");
 }
 
 html,
