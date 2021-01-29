@@ -865,6 +865,7 @@ footer .about img {
 }
 
 @media all and (max-width: 695px) {
+
   .header .nav1 {
     display: none;
   }
