@@ -3,8 +3,8 @@ Microverse HTML and CSS Week 2 Project: Responsive Web Design. This is to show t
 
 [![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
 
-![responsiveWeb](https://user-images.githubusercontent.com/57602224/106334967-1e7dc800-621f-11eb-9156-c364bbec2d5f.PNG)
-
+![Uploading responsiveWeb.PNG…](![responsiveWeb](https://user-images.githubusercontent.com/57602224/106334967-1e7dc800-621f-11eb-9156-c364bbec2d5f.PNG)
+)
 
 
 ## Built With
