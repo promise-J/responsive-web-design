@@ -9,8 +9,10 @@
 }
 
 $font-stack: @font-face;
+@white: white;
 
 .main {
+  background-color: @white;
   font-family: $font-stack;
 }
 
