@@ -3,6 +3,9 @@ Microverse HTML and CSS Week 2 Project: Responsive Web Design. This is to show t
 
 [![Screenshot-Project2.png](https://i.postimg.cc/Wb2tQnnt/Screenshot-Project2.png)](https://postimg.cc/Sjvy9cHp)
 
+![Uploading responsiveWeb.PNG…]()
+
+
 ## Built With
 
     HTML
@@ -16,7 +19,7 @@ Microverse HTML and CSS Week 2 Project: Responsive Web Design. This is to show t
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/promise-J/responsive-web-design/responsive-web/index.html)
+[Live Demo Link](https://promise-j.github.io/responsive-web-design/)
 
 ## Getting Started
 
