@@ -10,7 +10,7 @@
 
 $font-stack: @font-face;
 
-body {
+.main {
   font-family: $font-stack;
 }
 
